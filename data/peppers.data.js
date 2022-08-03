@@ -25,7 +25,7 @@ const peppers = [
     },
     {
         id: 5,
-        name: 'Leysa',
+        name: 'Lesya',
         spiceLevel: 'mild',
         imageUrl: 'https://peppadogs.com/wp-content/uploads/lesya_pepper_seeds.jpg'
     },
