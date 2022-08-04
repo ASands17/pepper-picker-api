@@ -196,4 +196,4 @@ const picked = [
     }
 ]
 
-export default picked;
+module.exports = picked;
