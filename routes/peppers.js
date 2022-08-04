@@ -9,7 +9,7 @@ router.get('/', function(req, res, next) {
 
 router.get('/:id', function(req, res, next) {
   const pepperById = picked.map(pepper => pepper.id === req.params.id)
-  res.send(pepperById);
+  res.send(picked);
 });
   
   module.exports = router;
