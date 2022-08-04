@@ -8,8 +8,8 @@ router.get('/', function(req, res, next) {
   });
 
 router.get('/:id', function(req, res, next) {
-  const pepperById = picked.map(pepper => pepper.id === req.params.id)
-  res.send(picked);
+  const pepperById = picked.filter(pepper => pepper.id === req.params.id)
+  res.json(picked);
 });
   
   module.exports = router;
