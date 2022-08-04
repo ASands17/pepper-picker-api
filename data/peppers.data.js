@@ -92,3 +92,4 @@ const peppers = [
 ]
 
 module.exports = peppers;
+// export default peppers;
