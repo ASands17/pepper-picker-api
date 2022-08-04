@@ -27,7 +27,7 @@ const peppers = [
         id: 5,
         name: 'Lesya',
         spiceLevel: 'mild',
-        imageUrl: 'https://peppadogs.com/wp-content/uploads/lesya_pepper_seeds.jpg'
+        imageUrl: 'https://croatianseeds-store.com/images/stories/virtuemart/product/lesya7.jpg'
     },
     {
         id: 6,
