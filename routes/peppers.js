@@ -8,8 +8,8 @@ router.get('/', function(req, res, next) {
   });
 
 router.get('/:id', function(req, res, next) {
-  const pepperById = picked.filter(pepper => pepper.id === req.params.id)
-  res.json(picked);
+  const pepperById = picked.filter(pepper => pepper.id === Number(req.params.id))
+  res.json(pepperById);
 });
   
   module.exports = router;
