@@ -9,6 +9,6 @@
 //   module.exports = router;
 
 
-//   app.get('/article/:id', function(req , res){
-//     res.render('article' + req.params.id);
-//   });
+  // app.get('/article/:id', function(req , res){
+  //   res.render('article' + req.params.id);
+  // });

@@ -7,8 +7,8 @@ router.get('/', function(req, res, next) {
     res.send(peppers);
   });
 
-// router.get('/peppers/:id', function(req, res, next) {
-//   res.send('peppers' + req.params.id);
-// });
+router.get('/:id', function(req, res, next) {
+  res.send('peppers' + req.params.id);
+});
   
   module.exports = router;
