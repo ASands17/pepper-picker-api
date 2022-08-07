@@ -40,7 +40,7 @@ const picked = [
     },
     {
         id: 4,
-        name: 'Chocolate Habenero',
+        name: 'Chocolate Habanero',
         waterInfo: "Wait until soil is dry, water deeply once or twice a week. Decrease watering once peppers appear on plant for hotter peppers",
         sunInfo: "Needs at least 6 hours of sun daily",
         harvestInfo: "Harvest when 1-2 inches in diameter and chocolatey red",
@@ -193,6 +193,19 @@ const picked = [
         funFact: 'Serrano peppers are hot chile peppers named for the mountain ridges in Mexico where they originated. They\'re considered a fruit, and they\'re popular in Mexican cuisine—only second to the jalapeño pepper in popularity.',
         seedLink: 'https://seedsofchange.com/seeds/vegetables/organic-serrano-pepper-seeds',
         imageUrl: 'https://www.isabeleats.com/wp-content/uploads/2019/09/serrano-pepper-small-1.jpg'
+    },
+    {
+        id: 16,
+        name: 'Carolina Reaper',
+        waterInfo: "Let soil dry, then water deeply. Do not overwater.",
+        sunInfo: "Needs at least 6 hours of sun daily",
+        harvestInfo: "Pick when peppers change from green to red for the most heat",
+        origin: "USA",
+        flavorProfile: 'Fruity, sweet',
+        scovilleUnits: '1,400,000 to 2,200,000',
+        funFact: 'Be warned... this is the hottest pepper in the world!',
+        seedLink: 'https://pepperjoe.com/collections/carolina-reaper-seeds/products/carolina-reaper',
+        imageUrl: 'https://cdn.shopify.com/s/files/1/1537/5553/products/12980_1024x1024.jpg?v=1605192353'
     }
 ]
 
