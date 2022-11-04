@@ -81,7 +81,7 @@ const peppers = [
         id: 14,
         name: 'Habanada',
         spiceLevel: 'Mild',
-        imageUrl: 'https://a6ciswdyxn-flywheel.netdna-ssl.com/wp-content/uploads/2015/03/Habanada-The-Unmasked-Habanero3-1oo1rxd.jpg'
+        imageUrl: 'https://media.npr.org/assets/img/2017/02/08/2016-10-05-13.36.44-1_vert-ef1b0c0e01da9d38246a5a69ab5604153527c35b.jpg'
     },
     {
         id: 15,
