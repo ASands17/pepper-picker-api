@@ -21,7 +21,7 @@ const picked = [
         origin: "Caribbean Islands",
         flavorProfile: 'Smokey, fruity, floral, pungent',
         scovilleUnits: '100,000 to 350,000',
-        funFact: "Back in 1999, Guinness ranked the Habanero as world’s hottest pepper. They have since been usurped by the Carolina Reaper pepper",
+        funFact: "Back in 1999, Guinness ranked the Habanero as world’s hottest pepper. They have since been usurped by the Carolina Reaper pepper.",
         seedLink: 'https://www.burpee.com/pepper-hot-habanero-prod000805.html',
         imageUrl: 'https://www.isabeleats.com/wp-content/uploads/2019/09/habanero-peppers-small-2.jpg'
     },
